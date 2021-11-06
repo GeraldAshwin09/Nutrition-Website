@@ -1,0 +1,50 @@
+.k img
+{
+    height: 200px;
+    width:200px;
+}
+.l img
+{
+    height: 200px;
+    width:200px;
+}
+.l
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.l p
+{
+    font-size: 20px;
+    font-family: inherit;
+}
+.k p
+{
+    font-size: 20px;
+    font-family:inherit;
+}
+.m
+{
+    position: sticky;
+    top: 0px;
+    z-index:9999;
+}
+iframe
+{
+    width: 100%;
+}
+#ghj
+{
+    margin-top: 100px;
+}
+.mailid
+{
+    margin-top: 100px;
+}
+.mn
+{
+    margin-top: 10px;
+}
+html:hover{
+    scroll-behavior: smooth;
+}
